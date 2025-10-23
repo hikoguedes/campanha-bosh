@@ -1,0 +1,85 @@
+Palavra,Custo,Cliques,Impressões,Conversões,Principais consultas com a palavra
+bosch,"R$ 181,78",104,1.296,"0,00","(bosch, bosch car service, bosch service)"
+service,"R$ 65,29",37,504,"0,00","(bosch car service, bosch service, bosch diesel service)"
+diesel,"R$ 38,93",20,473,"0,00","(bombista diesel, bombista diesel mais próximo, oficina diesel sp)"
+car,"R$ 48,00",28,361,"0,00","(bosch car service, bosch car service ipiranga, bosch car service perto de mim)"
+oficina,"R$ 30,97",16,353,"0,00","(oficina bosch, oficina diesel sp, oficina especializada em caminhonete diesel)"
+de,"R$ 23,42",13,333,"0,00","(mecânico perto de mim, auto eletrica perto de mim, mecânica diesel perto de mim)"
+mim,"R$ 20,01",11,286,"0,00","(mecânico perto de mim, auto eletrica perto de mim, mecânica diesel perto de mim)"
+auto,"R$ 18,71",12,257,"0,00","(auto eletrica são paulo, auto eletrica perto de mim, auto eletrica ipiranga)"
+perto de,"R$ 20,01",11,243,"0,00","(mecânico perto de mim, auto eletrica perto de mim, mecânica diesel perto de mim)"
+ipiranga,"R$ 28,89",22,180,"0,00","(bosch ipiranga, auto eletrica ipiranga, bosch car service ipiranga)"
+bombista,"R$ 14,40",6,170,"0,00","(bombista diesel, bombista diesel mais próximo, bombista diesel zona leste)"
+mecanico,"R$ 7,93",3,156,"0,00","(mecanico 24 horas, mecanico, mecanico proximo a mim)"
+paulo,"R$ 20,72",10,142,"0,00","(auto eletrica são paulo, bosch são paulo, mercado car são paulo)"
+mecanica,"R$ 14,04",6,113,"0,00","(mecanica diesel, bosch mecanica, mecanica)"
+auto eletrica,"R$ 8,83",7,111,"0,00","(auto eletrica são paulo, auto eletrica perto de mim, auto eletrica ipiranga)"
+são paulo,"R$ 20,72",10,107,"0,00","(auto eletrica são paulo, bosch são paulo, mercado car são paulo)"
+autozone,"R$ 4,06",2,87,"0,00","(autozone guarapiranga, autozone taipas, autozone campo limpo)"
+mais,"R$ 1,23",1,69,"0,00","(bombista diesel mais próximo, auto elétrico 24 horas mais próximo, assistência técnica bosch mais próxima)"
+24 horas,"R$ 1,28",1,62,"0,00","(mecanico 24 horas, auto elétrico 24 horas mais próximo)"
+mecânico,"R$ 10,06",4,61,"0,00","(mecânico perto de mim, mecânico)"
+mecânica,"R$ 0,00",0,61,"0,00","(mecânica diesel perto de mim, oficina mecânica perto de mim, mecânica diesel)"
+a,"R$ 3,65",1,59,"0,00","(auto eletrico proximo a mim, mecanico proximo a mim, mecanico a domicilio)"
+especializada em,"R$ 5,17",3,51,"0,00","(oficina especializada em caminhonete diesel, oficina especializada em hilux, oficina especializada em caminhonete)"
+mais próximo,"R$ 1,23",1,50,"0,00","(bombista diesel mais próximo, auto elétrico 24 horas mais próximo)"
+guarapiranga,"R$ 0,00",0,47,"0,00",(autozone guarapiranga)
+auto eletrico,"R$ 1,78",1,45,"0,00","(auto eletrico proximo a mim, auto eletrico, auto eletrico ipiranga)"
+proximo a,"R$ 0,00",0,43,"0,00","(auto eletrico proximo a mim, mecanico proximo a mim)"
+automotivo,"R$ 3,73",2,43,"0,00","(bosch automotivo, bosch car service newcar centro automotivo são paulo)"
+socorro,"R$ 0,00",0,41,"0,00","(mercadocar socorro, mercado car socorro)"
+em caminhonete,"R$ 2,30",2,40,"0,00","(oficina especializada em caminhonete diesel, oficina especializada em caminhonete)"
+center,"R$ 4,15",2,40,"0,00","(bosch auto center, bosch diesel center, auto center são paulo)"
+autorizada,"R$ 2,56",2,38,"0,00","(autorizada bosch perto de mim, autorizada bosch, autorizada da bosch)"
+sp,"R$ 2,60",1,35,"0,00",(oficina diesel sp)
+sao paulo,"R$ 0,00",0,35,"0,00","(aguia diesel sao paulo, oficina sao paulo, autopecas sao paulo)"
+taipas,"R$ 4,06",2,32,"0,00",(autozone taipas)
+mercadocar,"R$ 0,00",0,30,"0,00",(mercadocar socorro)
+limpeza de,"R$ 0,00",0,29,"0,00","(limpeza de bicos injetores valor, limpeza de bico injetor, limpeza de bicos injetores preço)"
+mercado car,"R$ 9,45",5,27,"0,00","(mercado car são paulo, mercado car socorro)"
+de oleo,"R$ 0,00",0,26,"0,00","(troca de oleo ipiranga, troca de oleo)"
+troca de,"R$ 0,00",0,26,"0,00","(troca de oleo ipiranga, troca de oleo)"
+auto peças,"R$ 3,95",2,26,"0,00","(auto peças diesel são paulo, auto peças ipiranga)"
+auto elétrico,"R$ 0,00",0,24,"0,00","(auto elétrico perto de mim, auto elétrico 24 horas mais próximo)"
+alinhamento e,"R$ 0,00",0,23,"0,00","(alinhamento e balanceamento, alinhamento e balanceamento ipiranga)"
+balanceamento,"R$ 0,00",0,23,"0,00","(alinhamento e balanceamento, alinhamento e balanceamento ipiranga)"
+zona,"R$ 7,49",2,22,"0,00",(bombista diesel zona leste)
+leste,"R$ 7,49",2,22,"0,00",(bombista diesel zona leste)
+bico injetor,"R$ 1,43",1,21,"0,00","(reparo de bico injetor diesel, limpeza de bico injetor)"
+elétrica perto,"R$ 0,00",0,21,"0,00","(auto elétrica perto de mim, auto elétrica perto de mim aberto agora)"
+diesel guarulhos,"R$ 1,44",1,20,"0,00","(bombista diesel guarulhos, oficina diesel guarulhos)"
+bicos injetores,"R$ 0,00",0,20,"0,00","(limpeza de bicos injetores valor, limpeza de bicos injetores preço)"
+mais próxima,"R$ 0,00",0,19,"0,00","(assistência técnica bosch mais próxima, oficina mecânica diesel mais próxima)"
+fj,"R$ 1,41",1,18,"0,00",(bosch car service fj premium)
+premium,"R$ 1,41",1,18,"0,00",(bosch car service fj premium)
+diadema,"R$ 0,00",0,18,"0,00",(bosch diadema)
+da bosch,"R$ 2,78",1,17,"0,00","(oficina da bosch, autorizada da bosch)"
+jabaquara,"R$ 0,00",0,16,"0,00",(bosch jabaquara)
+domicilio,"R$ 3,65",1,16,"0,00",(mecanico a domicilio)
+aguia,"R$ 0,00",0,15,"0,00",(aguia diesel sao paulo)
+turbina,"R$ 0,00",0,14,"0,00",(retifica de turbina)
+retifica,"R$ 0,00",0,14,"0,00",(retifica de turbina)
+victore,"R$ 1,29",1,12,"0,00",(victore bosch car service)
+reparo,"R$ 1,43",1,12,"0,00",(reparo de bico injetor diesel)
+hilux,"R$ 2,87",1,11,"0,00",(oficina especializada em hilux)
+cotia,"R$ 0,00",0,11,"0,00",(bosch cotia)
+valor,"R$ 0,00",0,11,"0,00",(limpeza de bicos injetores valor)
+koga,"R$ 0,00",0,10,"0,00",(koga koga sapopemba)
+assistência,"R$ 0,00",0,10,"0,00",(assistência técnica bosch mais próxima)
+sapopemba,"R$ 0,00",0,10,"0,00",(koga koga sapopemba)
+ricardiesel,"R$ 0,00",0,10,"0,00",(ricardiesel)
+revise,"R$ 1,04",1,10,"0,00",(revise car ipiranga)
+técnica,"R$ 0,00",0,10,"0,00",(assistência técnica bosch mais próxima)
+preço,"R$ 0,00",0,9,"0,00",(limpeza de bicos injetores preço)
+revisão,"R$ 3,68",2,9,"0,00",(revisão)
+tecnica,"R$ 1,10",1,9,"0,00",(assistencia tecnica bosch)
+assistencia,"R$ 1,10",1,9,"0,00",(assistencia tecnica bosch)
+newcar,"R$ 0,00",0,9,"0,00",(bosch car service newcar centro automotivo são paulo)
+centro,"R$ 0,00",0,9,"0,00",(bosch car service newcar centro automotivo são paulo)
+osasco,"R$ 0,00",0,9,"0,00",(bombista diesel osasco)
+maua,"R$ 0,00",0,8,"0,00",(auto eletrica maua)
+aberto,"R$ 0,00",0,8,"0,00",(auto elétrica perto de mim aberto agora)
+autopecas,"R$ 0,00",0,8,"0,00",(autopecas sao paulo)
+limpo,"R$ 0,00",0,8,"0,00",(autozone campo limpo)
+campo,"R$ 0,00",0,8,"0,00",(autozone campo limpo)
+agora,"R$ 0,00",0,8,"0,00",(auto elétrica perto de mim aberto agora)
